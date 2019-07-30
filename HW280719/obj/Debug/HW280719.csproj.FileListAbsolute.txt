@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\HW280719\HW280719\obj\Debug\HW280719.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\HW280719\HW280719\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\HW280719\HW280719\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\HW280719\HW280719\obj\Debug\HW280719_MarkupCompile.cache
+C:\Users\USER\source\repos\HW280719\HW280719\obj\Debug\HW280719_MarkupCompile.lref
+C:\Users\USER\source\repos\HW280719\HW280719\bin\Debug\HW280719.exe.config
+C:\Users\USER\source\repos\HW280719\HW280719\bin\Debug\HW280719.exe
+C:\Users\USER\source\repos\HW280719\HW280719\bin\Debug\HW280719.pdb
+C:\Users\USER\source\repos\HW280719\HW280719\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\HW280719\HW280719\obj\Debug\HW280719.g.resources
+C:\Users\USER\source\repos\HW280719\HW280719\obj\Debug\HW280719.Properties.Resources.resources
+C:\Users\USER\source\repos\HW280719\HW280719\obj\Debug\HW280719.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW280719\HW280719\obj\Debug\HW280719.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW280719\HW280719\obj\Debug\HW280719.exe
+C:\Users\USER\source\repos\HW280719\HW280719\obj\Debug\HW280719.pdb

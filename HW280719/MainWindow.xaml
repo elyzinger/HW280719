@@ -1,0 +1,24 @@
+﻿<Window x:Class="HW280719.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW280719"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="261.781" Width="366.301">
+    <Grid>
+        <Button x:Name="outer" HorizontalAlignment="Left" Margin="27,32,0,0" VerticalAlignment="Top" Width="115" Height="44" Click="Button_Click_1">
+            <Button x:Name="inner"  Content="Bubble" Width="75"  Click="Button_Click_2"/>
+        </Button>
+        <Button x:Name="outer2" HorizontalAlignment="Left" Margin="200,32,0,0" VerticalAlignment="Top" Width="115" Height="44" PreviewMouseDown="outter_PreviewMouseDown">
+            <Button x:Name="inner2"  Content="Tunnel" Width="75"  PreviewMouseDown="inner_PreviewMouseDown"/>
+        </Button>
+
+        <!--<Button x:Name="outer3" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="207" Height="68" PreviewKeyDown="outter_PreviewKeyDow" Margin="81,120,0,0">
+            <StackPanel>
+            <Button x:Name="inner3"  Content="Tunnel2" Width="55"  PreviewKeyDown="inner_PreviewKeyDown" Height="20"/>
+            </StackPanel>
+        </Button> keydowen not working-->
+
+    </Grid>
+</Window>
